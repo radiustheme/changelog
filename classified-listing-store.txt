@@ -1,0 +1,65 @@
+### Change log
+
+### 2.0.3
+- Fixed: Membership pricing selection issue
+- Fixed: Store open/close timezone issue
+
+### 2.0.2
+- Updated: Page layout
+- Fixed: AJAX filter issue in store details page
+- Fixed: Store logo set issue as featured
+
+### 2.0.1
+- Fixed: Twitter icon issue
+- Added: Store information at listing REST API
+- Update: Social profile options from main plugin
+- Optimization: Store logo and banner image size generation
+
+### 2.0.0
+- Fixed: Text domain issue
+- Fixed: Store category menu active issue
+- Fixed: Notice issue
+- Update: Post log count
+- Added: Store whatsapp number
+
+### 1.5.10
+- Fixed: business hour translation issue
+- Fixed: Migrated old business structure
+- Fixed: store opening ours from admin end
+
+== 1.5.9
+* Store set feature image when upload logo
+* Add description to membership oder details and order receipt page
+* Hide free ads if free ads off and membership is on
+
+== 1.4.16 (May 30, 2022)
+
+* Fixed: Button text change issue in checkout page
+
+== 1.4.9 (February 16, 2022)
+
+* Added: Store categories
+
+== 1.4.8 (December 01, 2021)
+
+* Add Google recaptcha V3 Support
+
+== 1.4.7 (November 15, 2021)
+
+* Fix store title error
+
+* Fix installing function not found issue
+
+== 1.4.6.3 (September 14, 2021)
+
+* Review template loading issue
+* Fix some coding issues
+* Add Addon filter to remove addon if installed
+
+== 1.4.6.2 (September 14, 2021)
+
+* Fix Membership features list
+* Fix Membership features list for email
+* Fix Membership Plan argument issue
+* Update payment receipt pages hooks
+* Fix Membership promotion issues
