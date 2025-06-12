@@ -1,6 +1,22 @@
 == Changelog ==
 
+= 4.2.1 ( Jun 13, 2025 ) =
+* Added: Form builder - include/exclude category for specific form
+* Added: Form builder: GEO auto suggestions at GEO location field
+* Added: Form builder - Bulk category condition apply
+* Updated: Ajax Filter builder - Directory default selection
+* Fixed: From builder - Conditional logic for check box field add includes and Not Includes operator
+* Fixed: Ajax filter sort custom field issue at builder
+* Fixed: Search form widget ad type compatibility
+* Fixed: Mark as sold listing hidden issue when active filter/search
+* Fixed: LFI vulnerability issue
+
+= 4.2.0 ( May 27, 2025 ) =
+* Added: Toolkit addon compatibility
+* Fixed: AJAX Filter responsive issue
+
 = 4.1.4 ( May 14, 2025 ) =
+* Fixed: Gallery thumbnail image click issue
 * Fixed: Promotion pricing selection issue on mobile
 * Fixed: My-account Add listing button position issue
 * Fixed: My-account login/registration page broken issue
