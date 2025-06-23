@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 5.0.5  ( June 23, 2025 ) =
+* Fixed: Department showing in team details page, Settings page dependency controls issue, Team Preview dynamic styling issue.
+
 = 5.0.4  ( April 28, 2025 ) =
 * Fixed: User Role Permission issue, Post Meta issue.
 
