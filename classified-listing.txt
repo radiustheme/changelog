@@ -1,8 +1,33 @@
 == Changelog ==
 
+= 5.0.6 ( Aug 20, 2025 ) =
+* Updated: Security check updated
+* Fixed: Repeater field - text area field placeholder
+* Fixed: Form builder - Smart dependency options load
+* Improved: Form builder - Smart dependency options selections
+
+= 5.0.5 ( Aug 15, 2025 ) =
+* Fixed: Title and description field data not updated
+
+= 5.0.4 ( Aug 15, 2025 ) =
+* Added: Form builder: Smart dependency for checkbox, select and radio field
+* Added: Form builder: Add Bulk options for checkbox, select and radio field
+* Added: To retrieve phone or whatsApp number rtcl_allow_number_reveal_on_click
+* Fixed: Email sanitize error
+* Fixed: Fontawesome global load issue on frontend
+* Fixed: Date range Picker unavailable date issue
+* Fixed: Form builder: Number field max value issue at require mode
+* Fixed: Form builder: Repeater field add item ad defined index / also update design
+* Fixed: Ajax filter Radio button check selection issue
+* Fixed: Admin end description field is required by removing uuid from preset field name while filed generate from AI
+* Fixed: Form builder category selection issue for update listing if Type is dependent
+
 = 5.0.3 ( July 24, 2025 ) =
 * Fixed: Shortcode map view pagination issue
-* Fixed: Form builder category, location admin end issue
+* Fixed: Form builder category, location field issue
+* Fixed: Gallery show / hide issue
+* Fixed: Video show / hide issue
+* Fixed: Category widget column issue
 
 = 5.0.2 ( July 16, 2025 ) =
 * Fixed: Form builder category, location field edit issue
