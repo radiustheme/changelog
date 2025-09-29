@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 5.0.6  ( August 28, 2025 ) =
+* Added: Solace Theme Support
+
 = 5.0.5  ( June 23, 2025 ) =
 * Fixed: Department showing in team details page, 
 * Fixed: Settings page dependency controls issue, 
