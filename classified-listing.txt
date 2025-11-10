@@ -1,5 +1,24 @@
 == Changelog ==
 
+= 5.2.0 ( Oct 15, 2025 ) =
+* Fixed : From builder from change issue at submission
+* Fixed: From builder Copy past issue at wp editor field
+* Fixed: From builder map latitude and longitude field validation issue while saving
+* Added: Single Listing Layout Builder
+* Updated: Settings layout
+
+= 5.1.0 ( Sep 09, 2025 ) =
+* Fixed: Currency position issue
+* Fixed: Number field sanitization issue
+* Added: Setup wizard
+
+= 5.0.7 ( Aug 27, 2025 ) =
+* Fixed: Style issue
+* Fixed: string issue at function convertToNumber
+* Fixed: Remove unwanted semicolon
+* Added: Form builder form utility function
+* Fixed: Vulnerability report & image missing issue
+
 = 5.0.6 ( Aug 20, 2025 ) =
 * Updated: Security check updated
 * Fixed: Repeater field - text area field placeholder
