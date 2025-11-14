@@ -1,5 +1,11 @@
 == Changelog ==
 
+= 5.0.8  ( November 14, 2025 ) =
+* Updated: Settings page ui improvements.
+
+= 5.0.7  ( September 29, 2025 ) =
+* Updated: Security check updated
+
 = 5.0.6  ( August 28, 2025 ) =
 * Added: Solace Theme Support
 
