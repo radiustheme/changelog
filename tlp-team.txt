@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 5.0.9  ( November 19, 2025 ) =
+* fixed: Settings page ui css issue.
+
 = 5.0.8  ( November 14, 2025 ) =
 * Updated: Settings page ui improvements.
 
