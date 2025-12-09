@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 5.0.11  ( December 9, 2025 ) =
+* Fixed: Minor CSS issues.
+
 = 5.0.10  ( December 3, 2025 ) =
 * Updated: WordPress 6.9 compatibility check.
 * Updated: Tested up to WordPress 6.9.
