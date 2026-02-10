@@ -1,5 +1,37 @@
 == Changelog ==
 
+= 7.8.3 (Aug 11, 2025) =
+* Fixed: Incorrect Black Friday notice appearing on the dashboard
+* Added: Sticky post background support for Divi, Elementor, and Gutenberg
+
+= 7.8.2 (Jun 22, 2025) =
+* Fixed: Undefined constant RT_TPG_PRO_VERSION for Divi
+
+= 7.8.1 (Jun 20, 2025) =
+* Fixed: PHP Parse error: syntax error, unexpected 'Abstract' (T_ABSTRACT) for Divi
+
+= 7.8.0 (Jun 19, 2025) =
+* Added: Three new widgets with nine layouts for the Divi Builder.
+* Fixed: Gutenberg block not working in the archive page builder for block themes.
+* Fixed: Polygon language conflict issue.
+
+= 7.7.22 (Jun 4, 2025) =
+Added: Add a new admin page for all plugins showcase
+Added: Add new InstallPlugin class hook
+Fixed: A few layout image height css issue fixed for Elementor and Gutenberg
+
+= 7.7.21 (May 20, 2025) =
+Fixed: Undefined tax_filter_all_text in Fns.php on line 690
+Fixed: Taxonomies shared across multiple post types not appearing correctly
+Added: New API endpoint to retrieve terms in Gutenberg
+Updated: “Display Per Page” control moved from Pagination to Query Builder in Gutenberg
+Cleaned: Removed unnecessary console.log from Gutenberg script
+
+= 7.7.20 (May 7, 2025) =
+Fixed: Resolved image srcset conflict with Avada theme
+Fixed: Addressed script loading conflict issue
+Added: New settings options for enhanced customization
+
 = 7.7.19 (Mar 18, 2025) =
 Fixed: Gutenberg block CSS not saving when using third-party containers.
 Fixed: Post title CSS being overridden by certain themes.
