@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 5.0.14  ( February 10, 2026 ) =
+* Fixed: Shortcode single popup, multiple popup post status issue.
+
 = 5.0.12  ( January 21, 2026 ) =
 * Fixed: PHP Deprecated issues.
 
