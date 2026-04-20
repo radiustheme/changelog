@@ -1,5 +1,18 @@
 == Changelog ==
 
+= 5.2.2 ( Nov 05, 2025 ) =
+* Fixed: Remove Hello text from Form builder
+* Updated: Discount Amount
+
+= 5.2.1 ( Nov 04, 2025 ) =
+* Fixed: Admin Notification Emails field
+* Fixed: Author page profile picture issue
+* Fixed: Add wpml use same image for translated listings
+* Fixed: Renew email expired on date issue
+* Fixed: Condition check array key issue
+* Update: From Builder Single Listing Layout Builder
+* Update: From Builder Design
+
 = 5.2.0 ( Oct 15, 2025 ) =
 * Fixed : From builder from change issue at submission
 * Fixed: From builder Copy past issue at wp editor field
