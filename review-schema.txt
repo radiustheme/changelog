@@ -1,0 +1,177 @@
+= 2.2.6 ( Nov 14, 2025 ) =
+* Added: Banner Added
+* Fixed: Mb String Make Compatible.
+
+= 2.2.5 ( Mar 11, 2025 ) =
+* Fixed: Security has been enhanced.
+
+= 2.2.4 ( 07 Feb, 2025 ) =
+* Fixed: Translation Issue
+
+= 2.2.3.1 ( 18 Nov 2024 ) =
+* Fixed: Make Compatible With Wordpress Latest version
+
+= 2.2.3 ( 26 Sept 2024 ) =
+* Added: Address Country field added for LobPosting
+* Fixed: Product MerchantReturnPolicy Warning
+
+= 2.2.2 ( 03 July 2024 ) =
+* Added: New Shortcode For Display stars ratings anywhere [rtrs-average-rating-stars]
+* Added: New Shortcode For Display average ratings count anywhere [rtrs-average-rating-count]
+* Added: Added Shipping Details, MerchantReturnPolicy For Product Schema
+* Fixed: Course Schema Notice and error
+
+= 2.2.1 ( 08 March, 2024 ) =
+* Fixed: Custom Schema Data save issue fixed.
+* Fixed: Comment Reply Deprecated issue.
+
+= 2.2.0 ( 30 January, 2024 ) =
+* Updated: Proper sanitization and escaping for all files.
+* Updated: Sanitization handling of $_GET/$_POST/$_REQUEST stack.
+* Fixed: Missing Authorization to Arbitrary Review Update.
+
+= 2.1.14 ( 12 December, 2023 ) =
+* Fixed: Spelling mistake.
+* Fixed: Affiliate layout fixed.
+
+= 2.1.13 ( 20 November, 2023 ) =
+* Fixed: PHP error.
+
+= 2.1.12 ( 14 November, 2023  ) =
+
+* Fixed: PHP error.
+
+= 2.1.11 ( 24 August, 2023  ) =
+* Fixed: Support Added For RTCL.
+
+= 2.1.10 ( 23 August, 2023  ) =
+* Fixed: Reply Ratting Issue.
+* Fixed: PHP 8.2.8 Issue Fixed
+
+= 2.1.9 ( 16 August, 2023  ) =
+* Fixed: PHP 8.2.8 Issue
+* Fixed: Remove Unexpected text
+
+= 2.1.8 ( 11 August, 2023  ) =
+* Fixed: Rating Issue.
+* Fixed: PHP 8.2.8 Issue
+
+= 2.1.7  ( 11 July, 2023 ) =
+* Fixed: Fix Custom Schema.
+
+= 2.1.6  ( 06 June, 2023 ) =
+* Fixed: Fix Product Schema Issue.
+
+= 2.1.5  ( 17 April, 2023 ) =
+* Fixed: Woocommerce Schema Price issue.
+* Fixed: Product Review reply issue fix
+
+= 2.1.4  ( 20 February, 2023 ) =
+* Fixed: Comment reply Issue Fixed.
+
+= 2.1.3  ( 8 February, 2023 ) =
+* Fixed: Autoload Issue Fixed.
+
+= 2.1.2  ( 15 December, 2022 ) =
+* Fixed: Issue Fixed.
+
+= 2.1.1  ( 21 November, 2022 ) =
+* Fixed: Schema field type issue.
+
+= 2.1.0  ( 23 Oct, 2022 ) =
+* Fixed: Woo Commerce Comment Issue.
+* Added: Feature Highlight, Sticky Review
+
+= 2.0.3  ( 23 September, 2022 ) =
+* Fixed: Woo Commerce Comment Issue.
+
+= 2.0.2  ( 23 September, 2022 ) =
+* Fixed: Schema Issue Fixed.
+
+= 2.0.1  ( 16 September, 2022 ) =
+* Added: New Schema Type TechArticle, MedicalWebPage, CollectionPage;
+
+= 2.0.0  ( 30 August, 2022 ) =
+* Fixed: Review for Others Language issue fixed.
+* Fixed: Review Update Issue Fixed.
+* Fixed: Review Enable By Post Type fixed.
+
+= 1.2.1  ( 16 August, 2022 ) =
+* Fixed: Review Edit Permission issue fixed.
+
+= 1.2.0  ( 26-July-2022 ) =
+* Added: New schema for Mosque, Church, Hindutemple, Buddhisttemple.
+* Added: Comment submit issue.
+* Added: New Hooks Added.
+* Fixed: Unused Assets Loading.
+* Fixed: Rating Value Validate.
+
+= 1.1.14  ( 06-July-2022 ) =
+* Fixed: Misc Settings Added.
+
+= 1.1.13  ( 06-Apr-2022 ) =
+* Fixed: Existings user support.
+
+= 1.1.12  ( 05-Apr-2022 ) =
+* Added: Forums support issue fixed.
+
+= 1.1.11  ( 04-Apr-2022 ) =
+* Added: New Settings Tab Added.
+
+= 1.1.10  ( 02-Feb-2022 ) =
+* Added: New Settings added for human redable time.
+
+= 1.1.9 ( 01-Feb-2022 ) =
+* Added: New Settings added.
+* Fixed: Review From Frontend validation.
+
+= 1.1.8 ( 27-Jan-2022 ) =
+* Fixed: Review Client side validation
+* Added: Get help page added.
+
+= 1.1.7 (12-Jan-2022) =
+* Fixed: Css file missed for Affiliate Review & Schema
+
+= 1.1.6 (30-Dec-2021) =
+* Added: Book schema in pro version.
+* Added: RealStateListing schema in pro version.
+* Fixed: Some functional issue
+
+= 1.1.5 (22-Dec-2021) =
+* Fixed: Percentage circle firefox issue
+* Fixed: Some CSS issue
+* Fixed: Some functional issue
+
+= 1.1.4 (24-Nov-2021) =
+* Added: Global Schema Settings
+* Added: Auto fill schema for pro
+
+= 1.1.3 (10-Nov-2021) =
+* Fixed: Restaurant schema menu items issue
+* Fixed: Minor CSS issues
+
+= 1.1.2 (06-Oct-2021) =
+* Fixed: Some functional issue
+
+= 1.1.1 (30-Sep-2021) =
+* Fixed: Some functional issue
+
+= 1.1.0 (21-Sep-2021) =
+* Added: Person Schema
+* Added: About Schema
+* Added: Contact Schema
+* Added: Service Schema
+
+= 1.0.3 (31-Aug-2021) =
+* Fixed: Schema featured image auto fill
+
+= 1.0.2 (27-Aug-2021) =
+* Fixed: Schema Author URL
+
+= 1.0.1 (19-Aug-2021) =
+* Fixed: Only schema settings bug
+* Improved: Some settings
+* Added: Audio Schema
+
+= 1.0.0 (18-Aug-2021) =
+* Initial load of the plugin.
