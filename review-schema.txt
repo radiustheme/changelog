@@ -1,3 +1,6 @@
+= 2.2.7 ( Feb 02, 2026 ) =
+* Fix: Auto Fill Vulnerability Resolved
+
 = 2.2.6 ( Nov 14, 2025 ) =
 * Added: Banner Added
 * Fixed: Mb String Make Compatible.
