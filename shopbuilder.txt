@@ -1,4 +1,18 @@
 
+= 3.2.6( April 12, 2026) =
+* Fix: Improved Cart Table Wishlist button styling
+* Fix: Resolved billing state value issue on first load
+* Fix: Fixed search results issue on archive pages
+* Fix: Resolved LiteSpeed Cache compatibility issue
+* Fix: Corrected wishlist icon update after adding to wishlist
+* Fix: Fixed incorrect value in category search field
+* Fix: Handled empty cart icon in AddToCart widget
+* Fix: Pagination Number support For Archive Page default widgets and Ajax filter
+* Fix: Abandonment Cart Recovery Cron reschedule event error for hook
+* Add: Display wishlist shortcode list in module settings
+* Update: Added image size selection control in the “Variation Swatch” module
+* Update: Updated composer dependency 'codesvault/howdy-qb'
+
 = 3.2.5 ( Feb 17, 2026) =
 * Add: Enhanced compatibility with 'Back In Stock Notifier' modules and feature
 * Fix: Resolved console error causing infinite slider loading
