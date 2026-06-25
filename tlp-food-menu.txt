@@ -1,0 +1,139 @@
+= 5.2.4 ( Jul 10, 2025 ) =
+Add: Add Indian Rupee symbol
+Fixed: Some pro feature compatibility issue fixed
+
+= 5.2.3 ( Apr 6, 2025 ) =
+* Added: New settings options for enhanced customization
+* Compatibility: Improved compatibility with the reservation system
+* Fixed: Resolved bug affecting mini-cart functionality
+
+= 5.2.2 ( Feb 7, 2025 ) =
+* Fixed: Some settings were not saving correctly.
+
+= 5.2.1 ( Jan 30, 2025 ) =
+* Fixed: Call to undefined method RT\FoodMenuPro\Helpers\FnsPro::enable_reservation()
+
+= 5.2.0 ( Jan 29, 2025 ) =
+* Security Updated: Sanitize all inputs, and added nonce and user permission for admin ajax
+* Fixed: initFMP is not defined
+* Modify: Settings Modify
+* Fixed: Image ration fixed for a few list layouts
+* Fixed: Error occurred when food details image was disabled
+
+= 5.1.4 ( Aug 8, 2024 ) =
+* Fixed: A few layout image not showing
+* Fixed: Category Layout post limit not working
+* Fixed: CSS Added
+* Fixed: JS Error fixed
+* Fixed: Admin Preview modify
+
+= 5.1.3 ( May 30, 2024 ) =
+* Fixed: Mini cart box currency position by woocommerce currency settings
+* Fixed: Currency settings show / hide by food menu type
+* Fixed: Shortcode generator category style settings
+* Fixed: Design css
+
+= 5.1.2 ( April 25, 2024 ) =
+* Fixed: Shortcode generator not displaying product by categories correctly
+* Fixed: Design css
+
+= 5.1.1 ( April 22, 2024 ) =
+* Fixed: Design css issues
+* Fixed: Mini cart issues
+* Fixed: Product food location taxonomy issues
+
+= 5.1.0 ( April 16, 2024 ) =
+* Added: Food location WooCommerce product taxonomy
+* Added: WooCommerce Mini Cart
+* Improved: Admin settings panel design improve
+* Fixed: Design css issues fixed
+
+= 5.0.8 ( November 20, 2023 ) =
+* Added: WordPress 6.4 version compatible
+
+= 5.0.7 ( June 23, 2023 ) =
+* Fixed: Preview Admin Ajax Warning
+* Added: WordPress 6.3 version compatible
+
+= 5.0.6 ( June 23, 2023 ) =
+* Added: Food Price Apply Hook
+
+= 5.0.5 (April 17, 2023) =
+* Fixed: Some Css Issue
+
+= 5.0.4 (Feb 07, 2023) =
+* Added: Macedonian Denar currency.
+* Fixed: Icon is not showing in Shortcode Preview.
+* Fixed: Shortcode metabox CSS issue.
+
+= 5.0.3 (Jan 11, 2023) =
+* Fixed: Compatibility with the latest version of Yoast SEO.
+
+= 5.0.2 (Dec 15, 2022) =
+* Fixed: A security bug.
+
+= 5.0.1 (Nov 18, 2022) =
+* Added: An option for hiding Trailing Zeroes on prices.
+* Fixed: Some PHP errors.
+* Fixed: Random category order in category layouts.
+
+= 5.0.0 (Sep 06, 2022) =
+* Improved: Major UI update & layouts re-design.
+* Improved: Layout Styles.
+* Added: Some more layouts.
+* Added: Some more ShortCode settings.
+* Updated: Proper sanitization and escaping for all files.
+* Fixed: WooCommerce products visibility issue.
+* Fixed: Floating price display issue.
+
+= 4.0.0 (Jun 14, 2022) =
+* Improved: Major update in code quality.
+* Improved: ShortCode Generator UI revamped.
+* Fixed: Some Layout style issues.
+* Fixed: Some Post Meta issues.
+* Fixed: Elementor Preview issues.
+
+= 3.0.11 (May 16, 2022) =
+* Fixed: Pagination not working on front page.
+* Fixed: Pagination not working correctly when post limit applied.
+* Fixed: Some errors with PHP 8.0 environment.
+* Fixed: Compatibility with the latest Elementor version.
+* Fixed: Some CSS issue fixed.
+
+= 3.0.10 (February 01, 2022) =
+* Fixed: Custom image size issue
+* Fixed: Icon font issue
+
+= 3.0.9 (Novembar 23, 2021) =
+* Fixed css issue
+
+= 3.0.8 =
+* Fixed WooCommerce category issue
+
+= 3.0.7 =
+* Fixed field selection issue
+
+= 3.0.6 =
+* Fixed layout preview color issue
+
+= 3.0.5 =
+* Fixed template render issue
+
+= 3.0.4 =
+* Fixed order by price issue
+
+= 3.0.3 =
+* Added settings hook
+
+= 3.0.2 =
+* Updated demo and documentation link
+
+= 3.0.1 =
+* Button Typography in shortcode
+* Layout style issue
+
+= 3.0.0 =
+* Update templating system and coding structure
+
+= 2.2.71.3 =
+* Add WordPress 5.7 Support
