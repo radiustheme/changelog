@@ -1,4 +1,25 @@
 
+= 2.4.1 (Jul 19, 2026) =
+Fixed: Restored `dirname()` method so older addons no longer trigger a fatal error.
+Fixed: Featured/main image no longer renders twice when it is also added to the product/variation gallery.
+
+= 2.4.0 (Jul 16, 2026) =
+Improved: Major UI upgrade — variation switching is now smooth and seamless, with an eased gallery transition, no thumbnail gap jump, and a transparent preloader that also shows with the "No effect" style (when the preloader is enabled).
+Fixed: Featured/main image no longer renders twice in the gallery when it is also added to the product gallery.
+Improved: Clicking "Clear" now resets the gallery to the default images and selects the main product image.
+Fixed: Gap beside fallback image for variations without a gallery.
+Changed: Moved plugin constants to the main file and removed redundant getter methods.
+Changed: Removed unused helper methods and dead code.
+Added: "No effect" option for Gallery Change Effect, now the default.
+Improved: Skip gallery re-render/re-init when a variation reuses the loaded gallery; just slide to its image.
+Fixed: Duplicate server-rendered image ids no longer force a rebuild when a variation reuses the same image set.
+Fixed: Thumbnail item gap now applied before the carousel initialises, preventing a shift on variation change.
+
+= 2.3.26 (Jun 22, 2026) =
+Fixed: Gallery flicker on initial page load caused by the forced reload of product variations.
+Fixed: Gallery reset and loading overlay now stay suppressed until the shopper actually changes a variation.
+Fixed: Prevented double-initialisation of the same gallery instance.
+
 = 2.3.25 (Jun 16, 2026) =
 Fixed: Gallery flicker and main image getting stuck on the featured image when switching variations.
 Fixed: Bottom thumbnail layout showing fewer columns than set in Thumbnail Items.

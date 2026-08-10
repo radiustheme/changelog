@@ -1,3 +1,57 @@
+
+= 3.0.3 (June 16, 2026) =
+* Fixed: Post could not be saved due to rating/number or URL field validation.
+* Fixed: "Pro field alert" popup auto-opening after the Pro plugin was deactivated.
+* Fixed: Pro-only schema no longer renders on the frontend when Pro is inactive.
+
+= 3.0.2 (June 03, 2026) =
+* Fixed: Article schema `articleBody` could break out of its JSON-LD `<script>` container and render raw markup in the page header (unescaped forward slashes in the JSON-LD output).
+* Fixed: HTML/script tags are no longer included in the `articleBody` schema text.
+* Fixed: Schema Notice And Error Messages Resolved For Product, Artical, WebPage Etc schema
+
+= 3.0.1 (May 23, 2026) =
+* Added: New Icon Added
+* Added: ES, FR Language Support Added
+* Deprecated: UI Improvement For Settings page
+* Fixed: Documentation URL Updated
+* Fixed: Comment submission HTTP 405 error caused by PHP warnings during comment POST request (null `$post` access and unset `HTTP_REFERER`)
+
+= 3.0.0 (May 19, 2026) =
+* Added: AI-Powered Schema Generation - Automatically generate, classify, and validate structured data schemas using AI with multi-provider support for OpenAI, Anthropic Claude, and Google Gemini.
+* Added: AI Content Extraction - Intelligently extract schema-relevant content from posts and pages to auto-populate structured data fields.
+* Added: AI FAQ Generation - Generate FAQ schema content using AI directly from post content.
+* Added: AI Schema Validation & Quality Scoring - Validate generated schemas against Google Rich Results requirements with confidence scoring.
+* Added: AI REST API - Dedicated REST API endpoints for schema generation, preview, save, and delete operations.
+* Added: Modern Admin Settings UI - Completely rebuilt settings panel using React, TypeScript, and Tailwind CSS with dynamic form rendering and instant search.
+* Added: Setup Wizard - Multi-step guided configuration wizard for Review, Schema, AI settings, post type selection, and third-party plugin conflict prevention. Re-runnable from settings.
+* Added: FAQ Gutenberg Block - Full-featured FAQ block with accordion/tab layouts, search, animations, responsive controls, typography/spacing customization, and JSON import/export of FAQ items.
+* Added: Elementor FAQ Schema Support - Automatically generate FAQPage schema from Elementor FAQ widgets.
+* Added: SERP Preview - Google search result card preview in the post editor that dynamically renders from JSON-LD schema data.
+* Added: Schema Preview Panel - Preview the complete generated JSON-LD schema markup before publishing.
+* Added: GDPR Consent Support - GDPR consent checkbox for review submissions with forbidden review count tracking.
+* Added: Data Migration from WP SEO Structured Data Schema - Import schema data from competing plugins with background processing and progress tracking.
+* Added: SureCart Integration - Review and rating support with product schema and dynamic pricing for SureCart stores.
+* Added: FluentCart Integration - Review support and dynamic pricing provider for FluentCart.
+* Added: Academy LMS Integration - Review and rating support with pricing provider for Academy LMS courses.
+* Added: Tutor LMS Integration - Review support and dynamic pricing provider for Tutor LMS.
+* Added: LearnPress Integration - Review support and dynamic pricing provider for LearnPress courses.
+* Added: LifterLMS Integration - Review support and dynamic pricing provider for LifterLMS.
+* Added: Dynamic Pricing Provider System - Extensible pricing architecture supporting WooCommerce, EDD, SureCart, FluentCart, Academy LMS, Tutor LMS, LearnPress, LifterLMS, Classified Listing, and Download Manager.
+* Added: TaxiService Schema type.
+* Added: AboutPage and ContactPage Schema types.
+* Added: Organization Schema Settings for corporate contacts and sub-organization configuration.
+* Added: LocalBusiness Sub-Category Selection in the setup wizard.
+* Added: Third-Party Plugin Conflict Prevention - Toggles to disable default schema from WooCommerce, EDD, SureCart, Rank Math, and Yoast SEO.
+* Improvement: Implement Graph-Based Schema architecture with @graph wrapper.
+* Improvement: Modular code architecture separating Review and Schema modules.
+* Improvement: Refactored schema builder into dedicated methods.
+* Improvement: Breadcrumb schema generation improvements.
+* Improvement: Opening hours field improvements.
+* Improvement: Added articleBody field to article schemas.
+* Improvement: Internal data migration handler for v3 settings upgrade.
+* Deprecated: SpecialAnnouncement, Dataset, and QAPage (Q&A) schema types.
+* Remove: Site Links Search Box Schema.
+
 = 2.2.7 ( Feb 02, 2026 ) =
 * Fix: Auto Fill Vulnerability Resolved
 
