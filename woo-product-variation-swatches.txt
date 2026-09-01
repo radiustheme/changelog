@@ -1,4 +1,15 @@
 
+= 2.4.0 (Aug 02, 2026) =
+* Refactor: Centralized all plugin constants in the main plugin file.
+* Improvement: Fixed admin notice button styling.
+
+= 2.3.23 (Jun 07, 2026) =
+* Fixed: Variation price and content not updating on the Gutenberg Product Collection block shop page (frontend.js)
+* Fixed: Swatch click events not working after pagination on the Gutenberg Product Collection block (frontend.js)
+* Improvement: Optimized archive swatch initialization and image hover performance (frontend.js)
+* Improvement: Cached dynamic inline CSS for faster front-end loading (ScriptLoader.php)
+* Improvement: Button UI Improvement (SettingsAPI.php)
+
 = 2.3.23 ( Jun 07, 2026 ) =
 * Fixed: Variation price and content not updating on the Gutenberg Product Collection block shop page (frontend.js)
 * Fixed: Swatch click events not working after pagination on the Gutenberg Product Collection block (frontend.js)
